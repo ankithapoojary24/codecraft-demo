@@ -1,5 +1,5 @@
 /**
- * adds 2 numbers and returns results
+ * next change
  * @param a1 
  * @param number 
  * @param b1 
