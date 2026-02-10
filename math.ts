@@ -14,6 +14,6 @@ function add(a1:number,b1:number):number{
  * @param b1 
  * @returns 
  */
-function subtract(a1:number,b1:number):number{
+function subtract-new(a1:number,b1:number):number{
     return a1-b1;
 }
