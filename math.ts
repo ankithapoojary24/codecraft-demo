@@ -15,7 +15,7 @@ function add(a1:number,b1:number):number{
  * @returns 
  */
 function subtract_new(a1:number,b1:number):number{
-    a1*=2;
+    a1*=1;
     return a1-b1;
 }
 /**
