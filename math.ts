@@ -29,5 +29,8 @@ function cube(a:number):number{
     return a*a*a ;
 }
 function sqroot(a:number):number{
+    if(a==0){
+        return 0;
+    }
     return Math.sqrt(a) ;
 }
